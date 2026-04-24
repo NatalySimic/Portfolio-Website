@@ -12,3 +12,14 @@ Modern portfolio website UI/UX design created in Figma, focused on clean layout,
 
 ## Design File
 [https://www.figma.com/design/...](https://www.figma.com/design/Ll9lqKufGHGgqC5ycgVEEz/Portfolio-sajt?node-id=274-2&m=dev&t=SovM7Z5GsNdWRlo9-1)
+
+## Preview
+
+<p align="center">
+  <img src="./images/Desktop.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./images/Tablet.png" width="400"/>
+  <img src="./images/Phone.png" width="220"/>
+</p>
